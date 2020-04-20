@@ -7,7 +7,7 @@ fun main(){
     println(b)
     val c = largerNumber41(50, 70)
     println(c)
-
+    println("000")
 }
 fun largerNumber21(num1: Int,num2: Int): Int{
     var value =0
